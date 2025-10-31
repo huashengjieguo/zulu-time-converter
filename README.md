@@ -2,6 +2,12 @@
 
 A professional UTC (Zulu Time) converter tool for aviation, military operations, and global coordination. Convert between your local time and Zulu time instantly with real-time synchronization.
 
+## 🌐 Visit the Website
+
+**👉 [Zulu Time Converter/](https://huashengjieguo.github.io/zulu-time-converter/)**
+
+Try the live tool now! Convert time instantly with our professional-grade UTC converter.
+
 ## 📸 Screenshots
 
 ![Zulu Time Converter - Main Interface](./zulu-time-converter-screenshot1.png)
@@ -102,13 +108,6 @@ Coordinate operations across multiple time zones:
 Schedule international conference calls:
 - Meeting at 15:00Z → Convert to each participant's local time
 
-## 📋 Technical Information
-
-This is a static website built with modern web technologies:
-- Built with Next.js (static export mode)
-- Responsive design with Tailwind CSS
-- Client-side time calculations for instant results
-- No server required - works offline after first load
 
 ## 📦 Deployment
 
